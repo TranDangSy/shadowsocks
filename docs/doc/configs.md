@@ -22,7 +22,7 @@ Explanation of each field:
 * `password`: a password used to encrypt transfer.
 * `method`: encryption method.
 
-[JSON]: http://www.json.org/
+[JSON]: https://www.json.org/
 
 ### Encryption Method
 

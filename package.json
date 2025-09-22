@@ -9,7 +9,7 @@
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
   },
-  "repository": "https://github.com/shadowsocks/shadowsocks-org.git",
+  "repository": "https://github.com/TranDangSy/shadowsocks.git",
   "author": "Max Lv",
   "license": "MIT",
   "devDependencies": {

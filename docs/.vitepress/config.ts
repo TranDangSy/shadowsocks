@@ -21,17 +21,17 @@ export default {
     },
 
     editLink: {
-      pattern: 'https://github.com/shadowsocks/shadowsocks-org/edit/main/docs/:path',
+      pattern: 'https://github.com/TranDangSy/shadowsocks/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/shadowsocks/shadowsocks-org' }
+      { icon: 'github', link: 'https://github.com/TranDangSy/shadowsocks' }
     ],
 
     footer: {
       message: 'This website is released under the MIT License.',
-      copyright: 'Copyright © 2022 Shadowsocks contributors'
+      copyright: 'Copyright © 2025 Shadowsocks contributors'
     },
 
     algolia: {
@@ -47,7 +47,7 @@ function nav() {
     { text: 'Documentation', link: '/doc/what-is-shadowsocks', activeMatch: '/doc/' },
     {
       text: 'Github Issues',
-      link: 'https://github.com/shadowsocks/shadowsocks-org/issues'
+      link: 'https://github.com/TranDangSy/shadowsocks/issues'
     },
     {
       text: 'Community',
