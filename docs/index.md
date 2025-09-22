@@ -13,7 +13,7 @@ hero:
       link: /doc/what-is-shadowsocks
     - theme: alt
       text: View on GitHub
-      link: https://github.com/shadowsocks
+      link: https://github.com/TranDangSy/shadowsocks
     - theme: alt
       text: Download from IPFS
       link: https://gateway.pinata.cloud/ipfs/Qma38UCuXzFFvsPJYn1zA82Nb9yUrUn2mdpmQahw5SvHDB/
